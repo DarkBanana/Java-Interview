@@ -1,8 +1,8 @@
 # Java-Interview
-Java-Interview related project
+For preparing Java-Interview related project
+
 
 ### Java 基础
 
+* JVM
 
-* jvm
-*jvm
