@@ -9,7 +9,7 @@
 
 ### 1. JVM内存模型及分配
 
-![](https://upload-images.jianshu.io/upload_images/10159387-8c6655a15bc25d67.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### ![](https://upload-images.jianshu.io/upload_images/10159387-8c6655a15bc25d67.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![abc](https://upload-images.jianshu.io/upload_images/10159387-8c6655a15bc25d67.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
