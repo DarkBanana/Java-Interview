@@ -35,3 +35,5 @@ ioc/aop
 ### 算法
 
 ### 项目
+
+缓存-客户端 sqlite/sqlce  服务端redis
